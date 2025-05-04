@@ -4,7 +4,7 @@ I'm [Andreas](https://A.Doebeling.de), a Project Manager from Erlangen/Germany a
 
 ## `$ ps -o comm`
 🎯 Product Owner & Business Analyst @ [DÖBELING | Projektbüro](https://doebeling.de)  
-🚗 Automotive HMI Project Manager @ [e.solutions](https://github.com/e-solutions-GmbH)/[CARIAD](https://github.com/cariad-tech)/[VW](https://github.com/volkswagen)  
+🚗 Automotive HMI Project Manager @ [e.solutions](https://github.com/e-solutions-GmbH) < [CARIAD](https://github.com/cariad-tech) < [VW](https://github.com/volkswagen)  
 👶 Professional Diaper Pipeline Engineer  
 🐶 Senior Pug Support Engineer  
 

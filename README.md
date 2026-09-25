@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://Andreas.Doebeling.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/logo-dark.svg">
-      <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/logo-light.svg" width="480" alt="DÖBELING Projektbüro">
-    </picture>
-  </a>
-</p>
-
-<br>
-
 <h1 align="center">Hey, I'm Andreas 👋</h1>
 
 <p align="center">
@@ -26,7 +15,7 @@
 
 <br>
 
-I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the [Volkswagen Group](https://github.com/volkswagen) at [e.solutions](https://github.com/e-solutions-GmbH) for [CARIAD](https://github.com/cariad-tech), where we build the infotainment HMI for Audi and [Porsche](https://github.com/porscheofficial). On the side I run my own project office, [DÖBELING Projektbüro](https://github.com/DOEBELING): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
+I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the [Volkswagen Group](https://github.com/volkswagen) at [e.solutions](https://github.com/e-solutions-GmbH) for [CARIAD](https://github.com/cariad-tech), where we build the infotainment HMI for [Audi](https://github.com/audi) and [Porsche](https://github.com/porscheofficial). On the side I run my own project office, [DÖBELING Projektbüro](https://github.com/DOEBELING): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
 
 ## 🛠️ `ps aux | grep andreas`
 
@@ -36,7 +25,8 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Quality assurance** – test strategies and test automation, so bugs get caught before your users find them.<br>
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Interim management** – when a project is on fire, I bring the extinguisher and a plan.<br>
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Local politics** – board member of a [local Green party chapter](https://github.com/Gruene-Baiersdorf) (B'90/Die Grünen). Democracy needs maintainers, too.
 
 ## 📜 `git log --career`
 
@@ -44,7 +34,7 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 * 2009 → now    Founder @ <a href="https://github.com/DOEBELING">DÖBELING Projektbüro</a>
                 └─ projects, business analysis, consulting, IT support
 * 2018 → now    Project Manager @ <a href="https://github.com/e-solutions-GmbH">e.solutions</a> (<a href="https://github.com/volkswagen">VW Group</a> / <a href="https://github.com/cariad-tech">CARIAD</a>)
-                └─ infotainment HMI for Audi &amp; <a href="https://github.com/porscheofficial">Porsche</a>, SAFe + ASPICE
+                └─ infotainment HMI for <a href="https://github.com/audi">Audi</a> &amp; <a href="https://github.com/porscheofficial">Porsche</a>, Scrum, SAFe + ASPICE
 * 2006 → 2018   <a href="https://github.com/1601com">1601.communication</a> (advertising agency)
                 └─ web dev → head of digital → management board
 </pre>
@@ -69,6 +59,9 @@ education/
 
 ---
 
-<p align="center">
-  <sub>Made with ☕ in Franconia · More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a> · © 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
+<p>
+  <a href="https://github.com/DOEBELING"><img src="assets/pd-footer-icon.svg" height="69" align="left" alt="DÖBELING Projektbüro"></a>
+  <sub>Made with ☕ in Franconia</sub><br>
+  <sub>More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a></sub><br>
+  <sub>© 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
 </p>

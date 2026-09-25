@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://Andreas.Doebeling.de">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/logo-dark.svg">
-      <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/logo-light.svg" width="480" alt="DÖBELING Projektbüro">
-    </picture>
-  </a>
-</p>
-
-<br>
-
 <h1 align="center">Hey, I'm Andreas 👋</h1>
 
 <p align="center">
@@ -70,5 +59,5 @@ education/
 ---
 
 <p align="center">
-  <sub>Made with ☕ in Franconia · More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a> · © 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
+  <a href="https://github.com/DOEBELING"><img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/favicon.svg" width="16" alt="DÖBELING Projektbüro" align="absmiddle"></a>&nbsp;<sub>Made with ☕ in Franconia · More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a> · © 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
 </p>

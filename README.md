@@ -59,7 +59,7 @@ education/
 ---
 
 <p>
-  <a href="https://github.com/DOEBELING"><img src="assets/pd-icon.svg" height="56" vspace="12" align="left" alt="DÖBELING Projektbüro"></a>
+  <a href="https://github.com/DOEBELING"><img src="assets/pd-icon.svg" height="69" align="left" alt="DÖBELING Projektbüro"></a>
   <sub>Made with ☕ in Franconia</sub><br>
   <sub>More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a></sub><br>
   <sub>© 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>

@@ -26,7 +26,7 @@
 
 I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the Volkswagen Group at e.solutions for CARIAD, where we build the infotainment HMI for Audi and Porsche. On the side I run my own project office, [DÖBELING Projektbüro](https://www.Doebeling.de): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
 
-## 🛠️ What I do
+## 🛠️ `ps aux | grep andreas`
 
 - 🚀 **Projects & teams** – build them, lead them, ship stuff. From *"we have an idea"* to *"it's live"*.
 - 🔄 **Agile with Scrum** – roles, events and workflows that fit your team. Yes, even in SAFe and ASPICE land.

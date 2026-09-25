@@ -33,7 +33,7 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 - 📋 **Requirements engineering** – turning *"can it just do X?"* into clear, testable user stories.
 - 🧯 **Interim management** – when a project is on fire, I bring the extinguisher and a plan.
 - 💻 **Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.
-- 🖥️ **SysAdmin** – servers, hosting and Microsoft 365, so small offices and law firms can just work.
+- 🖥️ **SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.
 
 ## 📜 `git log --career`
 

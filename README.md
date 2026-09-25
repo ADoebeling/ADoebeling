@@ -38,10 +38,10 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 ## 📜 `git log --career`
 
 ```text
-* 2018 → now    Project Manager @ e.solutions (VW Group / CARIAD)
-                └─ infotainment HMI for Audi & Porsche, SAFe + ASPICE
 * 2009 → now    Founder @ DÖBELING Projektbüro
                 └─ projects, business analysis, consulting, IT support
+* 2018 → now    Project Manager @ e.solutions (VW Group / CARIAD)
+                └─ infotainment HMI for Audi & Porsche, SAFe + ASPICE
 * 2006 → 2018   1601.communication (advertising agency)
                 └─ web dev → head of digital → management board
 ```

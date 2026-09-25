@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Andreas 👋</h1>
+<h1 align="center">Hey, I'm Andreas 👋</h1>
 
 <p align="center">
-  <b>Project Manager · Product Owner · Business Analyst</b><br>
-  Franconia, Germany
+  <b>Project Manager · Product Owner · Business Analyst · part-time code monkey</b><br>
+  📍 Franconia, Germany
 </p>
 
 <p align="center">
@@ -24,28 +24,34 @@
 
 <br>
 
-I am a business economist with more than 15 years of experience in leading projects and teams in software, marketing and automotive. I take responsibility for the concept, the technology and the business side of product development. I live agile values and I know how to organise projects with Scrum and how to manage processes in digital transformation. Since 2018 I have been working in the Volkswagen Group as a Project Manager at e.solutions for CARIAD, where we develop the infotainment HMI for Audi and Porsche. In my own business, [DÖBELING Projektbüro](https://www.Doebeling.de), I plan and deliver digitalisation projects as a business analyst. I also help agencies and service providers to build and organise their digital departments, and I guide difficult projects back to success.
+I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the Volkswagen Group at e.solutions for CARIAD, where we build the infotainment HMI for Audi and Porsche. On the side I run my own little shop, [DÖBELING Projektbüro](https://www.Doebeling.de): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
 
-## 🎯 What I do
+## 🛠️ What I do
 
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Building and leading projects and teams** – from the first idea to a stable product, with a clear view on goals, budget and people<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Defining agile processes with Scrum** – roles, events and workflows that fit the team and the company, also in SAFe and ASPICE environments<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Requirements engineering** – turning business needs into clear, testable requirements and a well-ordered backlog<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Interim management** – stepping in when a project is in trouble, calming things down and bringing it back on track<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Software development** – web applications, user interfaces and custom software, mostly with PHP<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**System administration** – servers, hosting and Microsoft 365 for small businesses and law firms
+- 🚀 **Projects & teams** – build them, lead them, ship stuff. From *"we have an idea"* to *"it's live"*.
+- 🔄 **Agile with Scrum** – roles, events and workflows that fit your team. Yes, even in SAFe and ASPICE land.
+- 📋 **Requirements engineering** – turning *"can it just do X?"* into clear, testable user stories.
+- 🧯 **Interim management** – when a project is on fire, I bring the extinguisher and a plan.
+- 💻 **Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.
+- 🖥️ **SysAdmin** – servers, hosting and Microsoft 365, so small offices and law firms can just work.
 
-## 📄 CV
+## 📜 `git log --career`
 
-| Period | Station |
-| --- | --- |
-| since&nbsp;2018 | **Project Manager** Automotive Infotainment HMI · e.solutions (Volkswagen Group / CARIAD) |
-| since&nbsp;2009 | **Owner** · DÖBELING Projektbüro |
-| 2006‑2018 | **Web Developer → Director Digital Media & Systems → Management Board** · 1601.communication |
-| 2006‑2025 | **Education** · IT Specialist for Application Development (IHK) · Communications Manager (BAW) · Certified Business Manager (IHK)<br>**Certifications** · PSPO I + II, PSM I, PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD) |
+```text
+* 2018 → now    Project Manager @ e.solutions (VW Group / CARIAD)
+                └─ infotainment HMI for Audi & Porsche, SAFe + ASPICE
+* 2009 → now    Founder @ DÖBELING Projektbüro
+                └─ projects, business analysis, consulting, IT support
+* 2006 → 2018   1601.communication (advertising agency)
+                └─ web dev → head of digital → management board
+* 2006 → 2017   Education
+                └─ IT specialist (IHK) → comms manager (BAW) → business manager (IHK)
+```
+
+🎓 **Certs:** PSPO I + II · PSM I · PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD)
 
 ---
 
 <p align="center">
-  <sub>More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a> · © 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
+  <sub>Made with ☕ in Franconia · More about me at <a href="https://Andreas.Doebeling.de">Andreas.Doebeling.de</a> · © 2009–2026 <a href="https://www.Doebeling.de">DÖBELING Projektbüro</a> · <a href="https://legal.doebeling.de/impressum/">Imprint</a></sub>
 </p>

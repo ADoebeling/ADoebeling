@@ -24,16 +24,25 @@
 
 <br>
 
-I have been leading software projects for more than 15 years. Since 2009 I have run my own consulting business, [DÖBELING Projektbüro](https://www.Doebeling.de). In my day job I work for the Volkswagen Group, where I help build infotainment systems. Before that, I spent 12 years at an advertising agency, where I led the digital department.
+I am a business economist with more than 15 years of experience in leading projects and teams in software, marketing and automotive. I take responsibility for the concept, the technology and the business side of product development. I live agile values and I know how to organise projects with Scrum and how to manage processes in digital transformation. Since 2018 I have been working in the Volkswagen Group as a Project Manager at e.solutions for CARIAD, where we develop the infotainment HMI for Audi and Porsche. In my own business, [DÖBELING Projektbüro](https://www.Doebeling.de), I plan and deliver digitalisation projects as a business analyst. I also help agencies and service providers to build and organise their digital departments, and I guide difficult projects back to success.
 
 ## 🎯 What I do
 
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Building and leading projects and teams<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Defining agile processes with Scrum<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Requirements engineering<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Interim management<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Software development<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;System administration
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Building and leading projects and teams** – from the first idea to a stable product, with a clear view on goals, budget and people<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Defining agile processes with Scrum** – roles, events and workflows that fit the team and the company, also in SAFe and ASPICE environments<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Requirements engineering** – turning business needs into clear, testable requirements and a well-ordered backlog<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Interim management** – stepping in when a project is in trouble, calming things down and bringing it back on track<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Software development** – web applications, user interfaces and custom software, mostly with PHP<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**System administration** – servers, hosting and Microsoft 365 for small businesses and law firms
+
+## 📄 CV
+
+| Period | Station |
+| --- | --- |
+| since&nbsp;2018 | **Project Manager** Automotive Infotainment HMI · e.solutions (Volkswagen Group / CARIAD) |
+| since&nbsp;2009 | **Owner** · DÖBELING Projektbüro |
+| 2006&nbsp;–&nbsp;2018 | **Web Developer → Director Digital Media & Systems → Management Board** · 1601.communication |
+| 2006&nbsp;–&nbsp;2025 | **Education** · IT Specialist for Application Development (IHK) · Communications Manager (BAW) · Certified Business Manager (IHK)<br>**Certifications** · PSPO I + II, PSM I, PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD) |
 
 ---
 

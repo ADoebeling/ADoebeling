@@ -58,10 +58,10 @@ education/
 │         (Werbefachwirt & Kommunikationswirt BAW)
 ├── 2012  Certified Trainer (CCI)
 │         (Ausbilder IHK, AEVO)
-├── 2009  IT Specialist for Application Development (CCI)
-│         (Fachinformatiker Anwendungsentwicklung IHK)
-└── 2009  Certified Project Manager (TÜV SÜD)
-          (Zertifizierter Projektleiter TÜV SÜD)
+├── 2009  Certified Project Manager (TÜV SÜD)
+│         (Zertifizierter Projektleiter TÜV SÜD)
+└── 2009  IT Specialist for Application Development (CCI)
+          (Fachinformatiker Anwendungsentwicklung IHK)
 ```
 
 ---

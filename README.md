@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<br>
+
 <h1 align="center">Hey, I'm Andreas 👋</h1>
 
 <p align="center">

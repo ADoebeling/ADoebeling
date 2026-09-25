@@ -24,27 +24,27 @@
 
 <br>
 
-I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the Volkswagen Group at e.solutions for CARIAD, where we build the infotainment HMI for Audi and Porsche. On the side I run my own project office, [DÖBELING Projektbüro](https://www.Doebeling.de): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
+I'm a business economist who never really stopped being a developer. For 15+ years I've been leading projects and teams in software, marketing and automotive – from the first rough idea to the product that actually ships. I believe in agile values, I speak Scrum fluently, and I like processes that help people instead of slowing them down. Since 2018 I've been working in the [Volkswagen Group](https://github.com/volkswagen) at [e.solutions](https://github.com/e-solutions-GmbH) for [CARIAD](https://github.com/cariad-tech), where we build the infotainment HMI for Audi and [Porsche](https://github.com/porscheofficial). On the side I run my own project office, [DÖBELING Projektbüro](https://github.com/DOEBELING): I plan digital projects, help agencies get their digital teams in shape and step in when a project gets bumpy.
 
 ## 🛠️ `ps aux | grep andreas`
 
-- 🚀 **Projects & teams** – build them, lead them, ship stuff. From *"we have an idea"* to *"it's live"*.
-- 🔄 **Agile with Scrum** – roles, events and workflows that fit your team. Yes, even in SAFe and ASPICE land.
-- 📋 **Requirements engineering** – turning *"can it just do X?"* into clear, testable user stories.
-- 🧯 **Interim management** – when a project is on fire, I bring the extinguisher and a plan.
-- 💻 **Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.
-- 🖥️ **SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;🚀 **Projects & teams** – build them, lead them, ship stuff. From *"we have an idea"* to *"it's live"*.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;🔄 **Agile with Scrum** – roles, events and workflows that fit your team. Yes, even in SAFe and ASPICE land.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;📋 **Requirements engineering** – turning *"can it just do X?"* into clear, testable user stories.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;🧯 **Interim management** – when a project is on fire, I bring the extinguisher and a plan.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;💻 **Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;🖥️ **SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.
 
 ## 📜 `git log --career`
 
-```text
-* 2009 → now    Founder @ DÖBELING Projektbüro
+<pre>
+* 2009 → now    Founder @ <a href="https://github.com/DOEBELING">DÖBELING Projektbüro</a>
                 └─ projects, business analysis, consulting, IT support
-* 2018 → now    Project Manager @ e.solutions (VW Group / CARIAD)
-                └─ infotainment HMI for Audi & Porsche, SAFe + ASPICE
-* 2006 → 2018   1601.communication (advertising agency)
+* 2018 → now    Project Manager @ <a href="https://github.com/e-solutions-GmbH">e.solutions</a> (<a href="https://github.com/volkswagen">VW Group</a> / <a href="https://github.com/cariad-tech">CARIAD</a>)
+                └─ infotainment HMI for Audi &amp; <a href="https://github.com/porscheofficial">Porsche</a>, SAFe + ASPICE
+* 2006 → 2018   <a href="https://github.com/1601com">1601.communication</a> (advertising agency)
                 └─ web dev → head of digital → management board
-```
+</pre>
 
 ## 🎓 `tree ~/education`
 

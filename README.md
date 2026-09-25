@@ -26,7 +26,7 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Interim management** – when a project is on fire, I bring the extinguisher and a plan.<br>
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Software development** – web apps, UIs and custom tools, mostly in PHP. Old habits die hard.<br>
 <img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**SysAdmin** – servers, hosting and Microsoft 365, so small offices can just work.<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Local politics** – board member of a local Green party chapter (Bündnis 90/Die Grünen). Democracy needs maintainers, too.
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Local politics** – board member of a [local Green party chapter](https://github.com/Gruene-Baiersdorf) (B'90/Die Grünen). Democracy needs maintainers, too.
 
 ## 📜 `git log --career`
 

@@ -44,11 +44,24 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
                 └─ projects, business analysis, consulting, IT support
 * 2006 → 2018   1601.communication (advertising agency)
                 └─ web dev → head of digital → management board
-* 2006 → 2017   Education
-                └─ IT specialist (IHK) → comms manager (BAW) → business manager (IHK)
 ```
 
-🎓 **Certs:** PSPO I + II · PSM I · PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD)
+## 🎓 `tree ~/education`
+
+```text
+education/
+├── 2017  Certified Business Manager (IHK)
+├── 2014  Communications Manager (BAW)
+├── 2012  Certified Trainer (IHK, AEVO)
+└── 2009  IT Specialist for Application Development (IHK)
+
+certifications/
+├── 2025  Professional Scrum Product Owner I + II (Scrum.org)
+├── 2025  Professional Scrum Master I, Scrum Developer I (Scrum.org)
+├── 2019  SAFe Agilist · Automotive SPICE
+├── 2011  Data Protection Officer
+└── 2009  Certified Project Manager (TÜV SÜD)
+```
 
 ---
 

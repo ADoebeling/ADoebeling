@@ -50,17 +50,23 @@ I'm a business economist who never really stopped being a developer. For 15+ yea
 
 ```text
 education/
-├── 2017  Certified Business Manager (IHK)
-├── 2014  Communications Manager (BAW)
-├── 2012  Certified Trainer (IHK, AEVO)
-└── 2009  IT Specialist for Application Development (IHK)
+├── 2017  Master of Business Management (CCI)
+│         (Geprüfter Betriebswirt IHK)
+├── 2014  Advertising & Communications Manager (BAW)
+│         (Werbefachwirt & Kommunikationswirt BAW)
+├── 2012  Certified Trainer (CCI)
+│         (Ausbilder IHK, AEVO)
+└── 2009  IT Specialist for Application Development (CCI)
+          (Fachinformatiker Anwendungsentwicklung IHK)
 
 certifications/
 ├── 2025  Professional Scrum Product Owner I + II (Scrum.org)
 ├── 2025  Professional Scrum Master I, Scrum Developer I (Scrum.org)
 ├── 2019  SAFe Agilist · Automotive SPICE
 ├── 2011  Data Protection Officer
+│         (Betrieblicher Datenschutzbeauftragter)
 └── 2009  Certified Project Manager (TÜV SÜD)
+          (Zertifizierter Projektleiter TÜV SÜD)
 ```
 
 ---

@@ -28,11 +28,12 @@ I have been leading software projects for more than 15 years. Since 2009 I have 
 
 ## 🎯 What I do
 
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Automotive** – Product Owner and Project Manager for infotainment HMI at [e.solutions](https://github.com/e-solutions-GmbH), part of the Volkswagen Group ([CARIAD](https://github.com/cariad-tech))<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Consulting** – agile project management, product ownership and business analysis for digital projects<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Crisis management** – getting difficult projects back on track<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**Development** – web applications, user interfaces and custom software<br>
-<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;**IT support** – Microsoft 365 for small businesses and law firms
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Building and leading projects and teams<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Defining agile processes with Scrum<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Requirements engineering<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Interim management<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;Software development<br>
+<img src="https://raw.githubusercontent.com/DOEBELING/.github/main/assets/bullet.svg" width="11" alt="">&nbsp;&nbsp;System administration
 
 ---
 

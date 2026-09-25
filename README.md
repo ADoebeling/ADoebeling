@@ -41,8 +41,8 @@ I am a business economist with more than 15 years of experience in leading proje
 | --- | --- |
 | since&nbsp;2018 | **Project Manager** Automotive Infotainment HMI · e.solutions (Volkswagen Group / CARIAD) |
 | since&nbsp;2009 | **Owner** · DÖBELING Projektbüro |
-| 2006&nbsp;–&nbsp;2018 | **Web Developer → Director Digital Media & Systems → Management Board** · 1601.communication |
-| 2006&nbsp;–&nbsp;2025 | **Education** · IT Specialist for Application Development (IHK) · Communications Manager (BAW) · Certified Business Manager (IHK)<br>**Certifications** · PSPO I + II, PSM I, PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD) |
+| 2006‑2018 | **Web Developer → Director Digital Media & Systems → Management Board** · 1601.communication |
+| 2006‑2025 | **Education** · IT Specialist for Application Development (IHK) · Communications Manager (BAW) · Certified Business Manager (IHK)<br>**Certifications** · PSPO I + II, PSM I, PSD I (Scrum.org) · SAFe Agilist · Automotive SPICE · Project Manager (TÜV SÜD) |
 
 ---
 
